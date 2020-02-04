@@ -6,8 +6,9 @@ La proposition validée par les 2 pôles est la suivante :
 - atelier stratégie générale
 - atelier tests d'utilisation
 
-Des questionnements sur la mise en oeuvre des tests d'utilisation.
-Envie de Marie soit partie prenante de la démarche.
+Retours : 
+- Des questionnements sur la mise en oeuvre des tests d'utilisation.
+- Envie que Marie soit partie prenante de la démarche.
 
 ## Pré Mortem
 
