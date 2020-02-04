@@ -17,11 +17,11 @@ Pour mettre sur la table les craintes, enjeux et attentes.
 
 *Imaginez, nous sommes en juillet 2020 et la refonte des sites a été une catastrophe. Pourquoi ? Pourquoi est-ce une catastrophe ? Qu'est-ce qu'il s'est passé ?*
 
-:::warning
+```
 [VS] mentionné par Vallons Solidaires
 [B] mentionné par Pays de Brocéliande
 [C] mentionné par Claire
-:::
+```
 
 - spécificité de l'identité de chaque pôle pas prise en compte [VS]
 - Conseil d'administration (CA) pas partie prenante [VS]
@@ -71,13 +71,13 @@ Après réflexion et après le pré-mortem, proposition est faite de réorganise
 
 -> plutôt que de passer du temps individuel à détailler les sites, convier un large panel d'utilisateurices potentielles sur un espace temps commun, en leur donnant des "devoirs" en amont. 
 
-:::info
+```
 Concernant les sites internet des pôles ESS du Pays de Brocéliande et Vallons Solidaires : 
 - qu'est-ce qui vous plaît le + ?
 - qu'est-ce qui vous est le + utile ?
 - qu'est-ce qui vous plaît le moins ?
 - qu'est-ce qui est inutile pour vous ?
-:::
+```
 
 2/ Atelier stratégie générale
 
