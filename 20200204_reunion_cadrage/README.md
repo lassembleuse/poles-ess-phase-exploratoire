@@ -38,6 +38,8 @@ Pour mettre sur la table les craintes, enjeux et attentes.
 - que ça ne me plaise pas, à mon retour en septembre [B - Anne]
 - qu'on ne se sente pas impliqués, qu'on ne soit pas informés des avancées [VS] [B]
 
+![](IMG_20200204_124839.jpg)
+
 ### Pré Mortem - réussite
 
 *Imaginez, nous sommes en juillet 2020 et la refonte des sites a été une réussite flamboyante. Pourquoi ? Pourquoi est-ce une réussite ? Qu'est-ce qu'il s'est passé ? Et qu'est-ce que le nouveau site change pour votre pôle ?*
@@ -58,6 +60,8 @@ Pour mettre sur la table les craintes, enjeux et attentes.
 - donne du crédit à l'ESS
 - donne une image d'une ruralité vivante et dynamique [VS] [B]
 - Marie a trop kiffé,, a appris plein de choses [B]
+
+![](IMG_20200204_124848.jpg)
 
 ## Planification de la phase exploratoire
 
