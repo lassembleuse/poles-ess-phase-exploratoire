@@ -5,3 +5,5 @@ Documentation de la phase exploratoire.
 
 - [05/12/2019 - Proposition initiale](/20191205_proposition_initiale)
 - [04/02/2020 - Cadrage phase exploratoire](/20200204_reunion_cadrage)
+- [09/03/2020 - Ateliers utilisateurices](/20200309_ateliers_utilisateurices)
+  - 

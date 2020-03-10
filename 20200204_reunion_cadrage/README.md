@@ -98,8 +98,8 @@ Contraintes :
 - les adhérents et partenaires d'un territoire auront de la difficulté à se déplacer sur un autre territoire. Compliqué d'organiser des ateliers communs.
 
 Dates des sessions de l'atelier :
-- Pour Vallons Solidires : **Lundi 9 mars**, 14h-15h30 + 18h30-20h, lieu à définir
-- Pur Brocéliance : **Mardi 10 mars**, 14h-15h30 + 18h30-20h, peut-être à Iffendic
+- Pour Vallons Solidaires : **Lundi 9 mars**, 14h-15h30 + 18h30-20h, locaux de Vallons Solidaires
+- Pour Brocéliance : **Mardi 10 mars**, 14h-15h30 + 18h30-20h, mairie d'Iffendic
 
 #### Atelier Stratégie générale
 
