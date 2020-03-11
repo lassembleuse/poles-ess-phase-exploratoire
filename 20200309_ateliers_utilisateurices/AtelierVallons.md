@@ -1,4 +1,4 @@
-# Atelier utilisateurices Pôle Vallons Solidaires - Lundi 9 mars 2020
+# Ateliers utilisateurices Pôle Vallons Solidaires - Lundi 9 mars 2020
 
 ## Participant.e.s
 

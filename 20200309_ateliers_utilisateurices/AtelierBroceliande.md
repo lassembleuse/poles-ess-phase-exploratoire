@@ -1,4 +1,4 @@
-# Atelier utilisateurices Pôle Brocéliande - Mardi 10 mars 2020
+# Ateliers utilisateurices Pôle Brocéliande - Mardi 10 mars 2020
 
 ## Participant.e.s
 
@@ -12,10 +12,8 @@
 
 ### Atelier 18h30 - 20h
 
-- Maison du patrimoine en Brocéliande : centre culturel à Iffendic 
-- Blanche Dehaie : primo accueil, porteuse de projet, projet d'agriculture seule, pépinière fruitière et petits animaux, pays de brocéliande 
-- Franseza Querrien : a participé à nos formations, Les Z'arts à la ferme (exposition, ferme pédagogique, accueil d'artistes), à Iffendic 
-- Bernard Beaudoin : membre et et co-président du conseil d'administration du pôle ESS de Brocéliande 
+- Porteuse de projet : primo accueil, porteuse de projet, projet d'agriculture seule, pépinière fruitière et petits animaux, pays de brocéliande
+- Membre CA : membre et et co-président du conseil d'administration du pôle ESS de Brocéliande
 
 
 ## Présentation / programme - 10min
@@ -68,6 +66,26 @@ Médiateur de promotion et développement de l'ESS sur le territoire
 - ergonomie
 - visible (bien référencé), qu'on ait pas besoin de passer par une recherche sur "bras" ou "brocéliande" pour le trouver
 - beau, en gardant le côté nature, environnement
+
+### Membre CA - Dirigeant SCOP
+
+Centre de ressource pour les projets ESS
+- mis à jour régulièrement
+- qu'il y ait de belles histoires, témoignages d'ESS du pays, authenticité (le + varié pour qu'on puisse toucher le + de monde)
+
+### Porteuse projet
+
+Lieu où peuvent se retrouver les acteurs de l'ESS du territoire, pour encourager les dynamiques, les partenariats
+- riche
+- site bien actualisé
+- clair, on trouve facilement les infos
+- rapide, léger, qui se charge bien
+
+Ce qui a déplu sur site actuel :
+- menu central bizarre, "je n'ai pas l'habitude"
+- en lisant BRAS, je ne voyais pas le lien avec l'ESS, j'avais l'impression que c'était plus une maison des associations
+- webradio : je m'attendais à de la musique
+
 
 ## Must have - 20min
 
@@ -125,6 +143,23 @@ Au sujet des échanges, interactions : exemple d'échanges mails intéressants a
 6. **Contacts** : tel, mail, adresse, **adhésion en ligne**, **inscription aux formations en ligne**...
 7. **Membres, salariés du pôle, présentation de l'équipe** : intéressant pour savoir à qui je m'adresse + côté humain
 
+### Membre CA - dirigeant SCOP
+
+- Nouveautés, création de projets ou de structures, actus
+- Des projets inspirants pour donner envie de faire de l'ESS
+- infos sur les prix, les appels à projets
+
+### Porteuse de projet
+
+- Réseau ESS du territoire (pour pouvoir m'y impliquer)
+- Actualités du réseau et de l'ESS en France
+- Définition du pôle
+- Définition de l'ESS
+- AaP, concours, appels à témoignage
+- Agenda
+- Equipe, pour savoir à qui je peux parler
+
+
 ### Dans le détail
 
 Pouvez-vous expliquer votre colonne des priorités ? Qu'est-ce que vous mettez sous chaque étiquette ? Pourquoi c'est important pour vous ?
@@ -139,17 +174,14 @@ Entrée par problématique ?
 Membre du CA :
 > Je pense qu'il faut qu'on garde un passage obligé par le pôle. On est attaqué par des élus, si on redirige trop ailleurs, on fait quoi ? On a besoin d'être sollicités, d'être acteur
 
-### Organisation des informations
-
-Consigne : Tous ces éléments, j'aimerais que vous les regroupiez et organisiez de façon cohérente, comme si vous organisiez le menu du futur site.
-
-
+Des documents aujourd'hui internes pourraient intéresser des partenaires (ex : travail sur le GPECT)
 
 ### Ce que j'en retiens
 
 #### En vrac
 
-
+- le site doit bien acter qu'il s'agit d'un pôle ESS et pas d'un maison des asso
+- interrogation sur la nécessité de refaire le site (finalement les personnes interrogées en sont pas mécontentes ?)
 
 #### Enjeux à creuser en atelier stratégique
 
