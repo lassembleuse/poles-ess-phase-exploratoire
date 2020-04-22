@@ -119,3 +119,9 @@ Bilan + lancement de la phase de réalisation suivante ?
 - Claire fait passer les infos formelles d'invitation (consignes) pour la semaine du 17/02
 - Point sur le nombre de participants une semaine avant pour caler le format des ateliers
 - Claire envoie devis avec facture d'acompte
+
+
+### Addendum avril 2020 - Ce que j'aurais dû faire différement à cette étape
+
+- définir avec les pôles leurs différents publics et les classer par ordre de priorité
+- leur demander de convier avant tout les publics prioritaires

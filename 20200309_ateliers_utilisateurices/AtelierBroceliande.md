@@ -4,10 +4,10 @@
 
 ### Atelier 14h - 15h30
 
-- Porteuse de projet : primo accueil, porteuse de projet, galerie art contenpo, Montfort
+- Porteuse de projet : primo accueil, porteuse de projet, galerie art contempo, Montfort
 - Membre CA. Pour l'atelier, il endosse principalement la casquette de représentant d'une association
 - Actuelle salariée : en remplacement congé mat', elle remet la casquette qu'elle avait il y a une poignée de mois, lorsqu'elle a étudié le site en vue de candidater sur le poste.
-- Actuelle stagiaire com' : je lui demande d'endosser sa propre casquette, pour avoir un éclairage sur les diffisultés ou bonheurs qu'elle rencontre avec le site dans sa pratique professionnelle.
+- Actuelle stagiaire com' : je lui demande d'endosser sa propre casquette, pour avoir un éclairage sur les difficultés ou bonheurs qu'elle rencontre avec le site dans sa pratique professionnelle.
 
 
 ### Atelier 18h30 - 20h
@@ -47,7 +47,7 @@ Sert à fédérer des associations pour les former et mettre à disposition des 
 
 ### Postulante
 
-Plaque tournante positive d'un développement économique et social sur le territoire, à l'écoute de ce qui a envie d'émerger et est facilitateur de se développement.
+Plaque tournante positive d'un développement économique et social sur le territoire, à l'écoute de ce qui a envie d'émerger et est facilitateur de ce développement.
 - beau et attractif
 - donne envie d'aller voir
 - m'apprends des nouveautés
@@ -190,6 +190,6 @@ Des moyens de donner du temps / ou au moins de ne pas en prendre, sur l'alimenta
 - faire contribuer le CA à la veille et diffusion d'infos
 - mise en place de listes de discussion
 
-Pour le contenu : faire le tri entre ce qui existe déjà (qu'on peut repompé), ce qui est à mettre à jour, et ce qui n'existe pas encore. Faut-il donner de l'énergie à ce qui n'existe pas encore, ou simplement valoriser ce qui est déjà là ?
+Pour le contenu : faire le tri entre ce qui existe déjà (qu'on peut repomper), ce qui est à mettre à jour, et ce qui n'existe pas encore. Faut-il donner de l'énergie à ce qui n'existe pas encore, ou simplement valoriser ce qui est déjà là ?
 
 Lever la crainte de trop donner d'infos en ligne et que leurs interlocuteurs ne soient plus obligés de passer par eux ?

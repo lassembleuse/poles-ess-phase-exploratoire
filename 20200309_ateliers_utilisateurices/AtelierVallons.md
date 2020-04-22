@@ -160,7 +160,7 @@ Ordonnez par ordre d'importance pour vous.
 
 ### Partenaire
 
-1. Actu ESS su territoire
+1. Actu ESS du territoire
 2. Agenda
 3. Actions en cours (pour se mettre en synergie)
 4. Appels à projets (pour pouvoir les relayer)
@@ -251,6 +251,8 @@ Attention : quel périmètre donner aux actus ? Uniquement pôle + partenaires ?
 - le pôle et ses adhérents
 
 
+- complémentaire à facebook (car aujourd'hui, facebook me suffit, on y retrouve toute l'actu). Donner une fonction de ressource au site ?
+
 ### Organisation des informations
 
 Avec le groupe du soir, plus réduit, on a même pu aller jusqu'à un début d'organisation de l'info.
@@ -265,7 +267,7 @@ Consigne : Tous ces éléments, j'aimerais que vous les regroupiez et organisiez
   - Présentation du pôle
   - C'est quoi l'ESS ?
 
-- Réseau
+- Réseau - l'ESS sur le territoire
   - les acteurs ESS du territoire
   - Présentation du réseau ESS
   - Une cartographie des acteurs de l'ESS
