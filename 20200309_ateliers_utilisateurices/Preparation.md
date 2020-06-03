@@ -17,7 +17,7 @@
   - Pourquoi adhérer ? (charte / statuts)
 - Actions
   - Appel pour une économie solidaire
-    - élu et/on cnadiat je m'engage blabla
+    - élu et/ou candidat je m'engage blabla
     - citoyen je m'engage blabla
   - Renforcer un réseau d’acteurs de l’ESS
   - Développer l’entrepreunariat et l’emploi ESS
